@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"text-de",
+				"text-decoration-style"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"di",
+				"d-i\tdisplay: inline;"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"co",
+				"contain"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"time",
+				"timeTaken"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"got",
+				"gotIt"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tweet",
+				"tweetString"
+			],
+			[
+				"tw",
+				"tweetString"
+			],
+			[
+				"twee",
+				"tweetDiv"
+			],
+			[
+				"rando",
+				"randomNumber"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"ram",
+				"randomNumber"
+			],
+			[
+				"magic",
+				"magicInput"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"text",
+				"textEntered"
+			],
+			[
+				"tex",
+				"textEntered"
+			],
+			[
+				"inpu",
+				"inputText"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"td",
+				"tbody\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"sam",
+				"small\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 340.0,
+		"last_filter": "material",
+		"selected_items":
+		[
+			[
+				"material",
+				"Material Theme: Configuration"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"liver",
+				"LiveReload: Self test"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"conflic",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Project 1/P1/aboutus.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/A4/A4/css/styles.css",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 11/Les/frog-toad/nav.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/A4/A4/index.html",
+		"/C/Users/letic/Downloads/comp1002-mobile-leticia.PublishSettings",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 11/Les/frog-toad/lists.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Programming Fundamentals/lab3/Lab3-GettingStartedwithGitHub.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 12/Javascript/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 12/Javascript/js/external.js",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 12/Javascript/js/gallery.js",
+		"/C/Users/letic/repo-1/styles.css",
+		"/C/Users/letic/repo-2-desktop/index.html",
+		"/C/Users/letic/Desktop/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/A3/A3/css/styles.css",
+		"/C/Users/letic/Downloads/lists-leticiabecker.PublishSettings",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/A3/A3/movie-poster.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 10/In-class ex/css/box-model.css",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 8/Lesson 8/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/A3/Examples/Shawshank/Shawshank Redemption/The Shawshank Redemption.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/A2/index.php",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 9/styling-text/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 10/Lesson 10/css/main.css",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 10/In-class ex/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 10/Lesson 10/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 9/styling-text/css/styles.css",
+		"/C/Users/letic/Downloads/comp1002leticia.PublishSettings",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 5/lesson5-files(1)/Lesson Files/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 5/In-class ex/web/images.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 5/lesson5-files(1)/Lesson Files/picture.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 8/In-class Ex/optimus-prime/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 8/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 8/css/styles.css",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/A2/The Printing Press",
+		"/C/Users/letic/Downloads/ecd384f992712b43d35aae418d270414.ico/manifest.json",
+		"/C/Users/letic/Downloads/forms (1)/process-form.php",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 6/lesson-files6(1)/bricks/index.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 6/lesson-files6(1)/bricks/red.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 6/lesson-files6(1)/bricks/yellow.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 6/lesson-files6(1)/bricks/legal/terms-of-use.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 6/lesson-files6(1)/bricks/legal/privacy-policy.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 6/lesson-files6(1)/bricks/blue.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 6/lesson-files6(1)/bricks/green.html",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 5/lesson5-files(1)/Lesson Files/img/georgian-logo.svg",
+		"/C/Users/letic/Google Drive/Studies/Georgian College/Semester 1/Web and Internet Fundamentals/Week 4/forms/index.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title=\"\">",
+			"</a>",
+			"<a href=\"\" title=\"\">",
+			"<li><a href=\"\" title=\"\">",
+			"<a href=\"\" title=\"\">",
+			"a href=\"\">",
+			"a href=\"\"",
+			"calculate",
+			"</li>",
+			"<li>",
+			"top: 20px;",
+			"absolute\">",
+			"background",
+			"position",
+			"<a",
+			"</li>",
+			"<li>",
+			"li",
+			"inline",
+			"width: 100px;",
+			"<li>",
+			"li>",
+			"px",
+			"<option>",
+			"col-md",
+			"href=\"",
+			"img ",
+			"img",
+			"<a ",
+			"<a",
+			"img",
+			"9",
+			"1",
+			"\n\t\t\t\t\t\t\t<option value=\"1\">1</option>\n\t\t\t\t\t\t\t<option value=\"2\">2</option>\n\t\t\t\t\t\t\t<option value=\"3\">3</option>\n\t\t\t\t\t\t\t<option value=\"4\">4</option>\n\t\t\t\t\t\t\t<option value=\"5\">5</option>",
+			"ccexpyear",
+			"2016",
+			"\n\t\t\t\t\t\t\t<option value=\"2016\">2016</option>",
+			"<option value=\"2016\">2016</option>",
+			"<td> ",
+			"\tc.",
+			"\t</td>",
+			"tab",
+			"ul",
+			"\n",
+			"ul>",
+			"\n",
+			"ul>",
+			"\n",
+			"1040",
+			"Woodblock printing\t200",
+			"arrow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">\n",
+			"display"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

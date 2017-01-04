@@ -1,0 +1,108 @@
+/* Body */
+body {
+	font-family: 'Hind', Arial, Helvetica, sans-serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	color: white;
+	background-color: #ffeaf5;
+	background-image:url(../images/bg_pic.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+/* 1st Heading */
+h1, h2 {
+	height: 50px;
+	text-shadow: 2px 2px 5px #000000;
+	font-family: 'Bungee';
+}
+
+/* Paragraphs */
+p {
+	background-color: rgba(0, 0, 0, .5);
+	padding: 10px;
+}
+
+footer p {
+	background-color: transparent;
+}
+
+/* Navigation Styles */
+	/* Unordered Lists */
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	/* List Items */
+	li {
+		border: 2px solid lightgrey;
+		display: inline-block;
+		position: relative;
+		background-color: #2b2629;
+
+	}
+
+	/* Secondary Unordered List */
+	ul.sub1 {
+		position: absolute;
+		width: 250px;
+		visibility: hidden;
+	}
+
+	/* Tertiary Unordered List */
+	ul.sub2 {
+		position: absolute;
+		width: 250px;
+		visibility: hidden;
+	}
+
+	/* Show Secondary Unordered List */
+	li:hover ul.sub1 {
+		visibility: visible;
+		left: 0px;
+	}
+
+	/* Show Tertiary Unordered List */
+	ul.sub1 li:hover ul.sub2 {
+		visibility: visible;
+		left: 250px;
+		top: 0px;
+	}
+
+	/* 2nd and 3rd Level List Items */
+	ul.sub1 li, ul.sub2 li {
+		display: block;
+		background-color: #564b51;
+	}
+
+	/* Anchor of List Items */
+	nav li a {
+		display: block;
+		padding: 0.5em;
+		text-decoration: none;
+		color: white;
+	}
+
+	/* Anchor's pseudo classes */
+	li a:link {
+		text-shadow: 2px 2px 5px #000000;
+	}
+
+	li a:visited {
+		color: lightgrey;
+	}
+
+	ul li:hover > a {
+		background-color: #771146;
+	}
+
+	li a:active {
+		background-color: #771190;
+	}
+
+/* Main Container */
+main {
+	clear: both;
+}
